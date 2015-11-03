@@ -66,5 +66,7 @@ class ExampleSpecGWTBAA extends FeatureSpec with GivenWhenThen with BeforeAndAft
       println("b3")
       abc = 2
     }
+    
+    println("fff")
   }
 }
