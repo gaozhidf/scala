@@ -1,0 +1,658 @@
+2015-10-15 23:36:14,478  WARN [ModalContext] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:36:14,481  WARN [ModalContext] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:36:34,100  WARN [Worker-6] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:36:34,100  WARN [Worker-6] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:36:52,487  WARN [main] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:36:52,487  WARN [main] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:36:59,201  WARN [Worker-6] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:36:59,201  WARN [Worker-6] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:36:59,227  WARN [Worker-6] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:36:59,227  WARN [Worker-6] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:03,229  WARN [Worker-1] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:03,230  WARN [Worker-1] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:03,264  WARN [Worker-1] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:03,265  WARN [Worker-1] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:03,648  WARN [Java indexing] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:03,649  WARN [Java indexing] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:04,578  WARN [Worker-1] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:04,579  WARN [Worker-1] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:05,657  WARN [Worker-9] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:05,657  WARN [Worker-9] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:05,686  WARN [Worker-9] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:05,686  WARN [Worker-9] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:37:06,506  WARN [Worker-9] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:37:06,506  WARN [Worker-9] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:08,173  WARN [Worker-7] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:08,174  WARN [Worker-7] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:08,206  WARN [Worker-7] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:08,206  WARN [Worker-7] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:12,157  WARN [Worker-7] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:12,158  WARN [Worker-7] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:13,183  WARN [Worker-0] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:13,183  WARN [Worker-0] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:13,201  WARN [Worker-0] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:13,201  WARN [Worker-0] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:39:14,098  WARN [Worker-0] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:39:14,099  WARN [Worker-0] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:42:40,684  WARN [main] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:42:40,687  WARN [main] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:42:40,699  WARN [main] - ScalaProject - Project myscala_first has platform default sourceLevel.
+2015-10-15 23:42:40,699  WARN [main] - ScalaProject - Project myscala_first runs on platform default installation.
+2015-10-15 23:47:48,425  WARN [ModalContext] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:47:48,426  WARN [ModalContext] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:03,100  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:03,101  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:03,258  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:03,258  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:03,283  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:03,283  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:11,452  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:11,452  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:18,875  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:18,875  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:19,167  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:19,167  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:19,241  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:19,241  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:48:23,951  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:48:23,951  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:49:23,117  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:49:23,117  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:49:23,141  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:49:23,141  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:49:24,190  WARN [Worker-6] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-15 23:49:24,190  WARN [Worker-6] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-15 23:52:32,983 ERROR [Worker-0] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-10-15 23:52:32,983 ERROR [Worker-0] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-10-15 23:52:32,983 ERROR [Worker-0] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-10-31 20:50:31,922  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-31 20:50:31,954  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-31 20:50:32,284  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-31 20:50:32,286  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-31 20:51:07,706  WARN [ModalContext] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-10-31 20:51:07,707  WARN [ModalContext] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-10-31 20:51:07,996  WARN [ModalContext] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-10-31 20:51:07,997  WARN [ModalContext] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-10-31 20:51:09,476  WARN [Java indexing] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-10-31 20:51:09,477  WARN [Java indexing] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-10-31 20:51:38,193  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-10-31 20:51:39,721  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-10-31 20:51:48,337  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-10-31 21:20:51,228  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-10-31 21:20:51,233  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-10-31 21:20:52,354  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-10-31 21:20:52,355  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-10-31 21:20:54,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-10-31 21:21:20,996  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-10-31 21:21:20,997  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-10-31 21:22:02,669 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-10-31 21:22:02,669 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-10-31 21:22:02,669 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-01 02:37:09,136  WARN [Worker-0] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-01 02:37:09,139  WARN [Worker-0] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-01 02:37:09,464  WARN [Worker-0] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 02:37:09,465  WARN [Worker-0] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-01 02:37:48,061  WARN [main] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-01 02:37:48,062  WARN [main] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-01 02:37:56,775  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-11-01 02:37:57,008  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-01 02:38:02,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-01 02:38:02,365  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-01 02:38:03,251  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-01 02:38:03,482  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-11-01 02:38:03,817 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter$ - Error while searching for call-by-name parameter creations.
+scala.tools.nsc.interactive.FreshRunReq
+2015-11-01 03:56:58,763 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-01 03:56:58,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-01 03:56:58,765 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-01 14:56:32,922  WARN [main] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-01 14:56:32,924  WARN [main] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-01 14:56:32,930  WARN [main] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-01 14:56:32,930  WARN [main] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-01 14:56:42,526  WARN [Worker-4] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 14:56:42,534  WARN [Worker-4] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-01 15:03:46,241  WARN [Worker-4] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-01 15:03:46,241  WARN [Worker-4] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-01 15:03:46,292  WARN [Worker-4] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 15:03:46,292  WARN [Worker-4] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-01 15:03:46,525  WARN [Worker-4] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 15:03:46,525  WARN [Worker-4] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-01 15:03:46,864  WARN [Worker-4] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 15:03:46,864  WARN [Worker-4] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-01 15:03:47,323  WARN [Worker-4] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-01 15:03:47,323  WARN [Worker-4] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-03 22:50:27,514  WARN [main] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-03 22:50:27,532  WARN [main] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-03 22:50:27,556  WARN [main] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-03 22:50:27,556  WARN [main] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-03 22:50:41,800  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-03 22:50:41,800  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-03 23:05:34,037  WARN [ModalContext] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:05:34,037  WARN [ModalContext] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:05:47,205  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:05:47,206  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:05:47,425  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:05:47,426  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:05:47,447  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:05:47,447  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:35,295  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:35,296  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:37,227  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:37,227  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:37,250  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:37,250  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:37,620  WARN [Java indexing] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:37,620  WARN [Java indexing] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:41,531  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:41,531  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:41,681 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:06:41,682 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:06:41,684 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:06:41,684 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-03 23:06:42,623  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:42,623  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:42,642  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:42,642  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-03 23:06:42,898 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - An error occurred while trying to create a file.
+org.eclipse.core.internal.resources.ResourceException: Resource '/scalatest_first/src/ExampleSpec .scala' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+	at org.eclipse.core.internal.resources.File.create(File.java:112)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:98)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:89)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:89)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:89)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:128)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:102)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:290)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:118)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2251)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:356)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:465)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.openFileInSrcDir$1(NewFileWizard.scala:364)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.org$scalaide$ui$internal$wizards$NewFileWizard$$openEditor(NewFileWizard.scala:375)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:287)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:136)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+2015-11-03 23:06:44,393  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-03 23:06:44,393  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:03:34,293 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-04 00:03:34,293 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-04 00:03:34,293 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-04 00:04:00,496  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:04:00,497  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:04:00,523  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:04:00,523  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:04:00,867  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:04:00,868  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:49,834  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:49,835  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:49,860  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:49,860  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:49,879  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:49,879  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:50,108  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:50,108  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:50,365  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:50,365  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:05:50,382  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:05:50,382  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:06:30,325  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:06:30,325  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:06:30,339  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:06:30,339  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:06:30,394  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:06:30,394  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:19:51,027  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:19:51,027  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:19:51,046  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:19:51,046  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:19:51,063  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:19:51,063  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:24:03,986  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:24:03,986  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:24:04,014  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:24:04,014  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:24:14,303  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:24:14,303  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:24:14,322  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:24:14,322  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:25:47,612  WARN [Worker-12] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:25:47,612  WARN [Worker-12] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:25:47,628  WARN [Worker-12] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:25:47,628  WARN [Worker-12] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:25:54,563  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:25:54,564  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:25:54,578  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:25:54,579  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:00,089  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:00,089  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:00,121  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:00,121  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:00,153  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:00,154  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:01,184  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:01,184  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:01,200  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:01,200  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:01,213  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:01,214  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:37,044  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:37,045  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:37,244  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:37,244  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:37,263  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:37,263  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:40,596  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:40,596  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:44,927  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:44,927  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:44,939  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:44,939  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:44,951  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:44,951  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:46,966  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:46,966  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:46,977  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:46,977  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:51,228  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:51,228  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:51,240  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:51,240  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:54,968  WARN [Worker-15] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:54,968  WARN [Worker-15] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:27:54,979  WARN [Worker-15] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:27:54,979  WARN [Worker-15] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:17,069  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:17,070  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:17,084  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:17,085  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:20,381  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:20,382  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:20,419  WARN [Worker-14] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:20,419  WARN [Worker-14] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:23,249  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:23,249  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:23,261  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:23,261  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:34,266  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:34,266  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:28:34,277  WARN [Worker-16] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:28:34,277  WARN [Worker-16] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:29:14,185  WARN [main] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:29:14,185  WARN [main] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:11,049  WARN [Worker-0] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-04 00:32:11,051  WARN [Worker-0] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-04 00:32:12,701  WARN [Worker-0] - ScalaProject - Project moco-scala has platform default sourceLevel.
+2015-11-04 00:32:12,701  WARN [Worker-0] - ScalaProject - Project moco-scala runs on platform default installation.
+2015-11-04 00:32:12,890  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:32:12,894  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:12,966  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:32:12,966  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:13,044  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:32:13,045  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:13,233  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:32:13,233  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:13,518  WARN [Worker-3] - ScalaProject - Project myfirstproject has platform default sourceLevel.
+2015-11-04 00:32:13,519  WARN [Worker-3] - ScalaProject - Project myfirstproject runs on platform default installation.
+2015-11-04 00:32:13,779  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:13,780  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:13,794  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:13,794  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:13,804  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:13,804  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:13,833  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:13,833  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:15,208  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:15,208  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:18,674 ERROR [Worker-3] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-11-04 00:32:18,674 ERROR [Worker-3] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-11-04 00:32:18,675 ERROR [Worker-3] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-11-04 00:32:27,858  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:27,859  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:27,903  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:27,904  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:32:59,413  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:32:59,414  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:34:27,281  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:34:27,281  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:34:27,446  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:34:27,446  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:34:27,465  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:34:27,466  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:34:28,577  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:34:28,579  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:34:32,474  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:34:32,474  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:12,228  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:12,228  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:12,275  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:12,275  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:12,293  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:12,293  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:15,814  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:15,814  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:23,337  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:23,337  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:23,352  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:23,352  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:23,372  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:23,372  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:27,043  WARN [Worker-2] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:27,043  WARN [Worker-2] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:27,058  WARN [Worker-2] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:27,058  WARN [Worker-2] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:33,201  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:33,201  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:33,244  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:33,244  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:35,076  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:35,076  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:38,686  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:38,686  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:38,706  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:38,706  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:40:38,727  WARN [Worker-5] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:40:38,728  WARN [Worker-5] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:43,939  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:43,939  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:44,268  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:44,268  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:44,298  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:44,298  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:47,574  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:47,574  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:53,379  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:53,379  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:53,411  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:53,411  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:45:53,428  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:45:53,428  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:11,270  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:11,271  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:11,293  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:11,294  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:14,607  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:14,608  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:15,651  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:15,651  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:15,663  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:15,663  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:46:15,679  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:46:15,679  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:24,068  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:24,069  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:24,097  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:24,097  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:24,097 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 00:52:24,098 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 00:52:24,098 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 00:52:29,595  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:29,596  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:29,671  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:29,671  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:29,688  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:29,688  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:29,705  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:29,705  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:55,833  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:55,833  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:52:55,853  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:52:55,854  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:53:01,218  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:53:01,219  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:53:01,301  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:53:01,301  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:53:01,313  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:53:01,313  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:53:01,413  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:53:01,413  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:03,248  WARN [main] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:03,249  WARN [main] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:03,573  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:03,573  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:03,602  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:03,602  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:06,977  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:06,977  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:15,506  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:15,506  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:15,519  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:15,519  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:15,531  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:15,532  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:35,030  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:35,031  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:35,048  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:35,049  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:38,587  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:38,588  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:42,756  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:42,756  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:42,770  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:42,770  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:54:42,787  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:54:42,788  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:34,283  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:34,284  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:34,301  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:34,302  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:39,927  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:39,927  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:46,438  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:46,438  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:46,450  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:46,450  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:46,462  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:46,462  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:53,036  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:53,036  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:53,046  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:53,046  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:55,034  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:55,035  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:56,439  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:56,439  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:56,448  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:56,449  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:56:56,464  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:56:56,464  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:06,131  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:06,131  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:06,141  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:06,142  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:07,681  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:07,681  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:09,409  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:09,409  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:09,422  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:09,422  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:09,436  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:09,436  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:34,426  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:34,426  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:34,439  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:34,440  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:39,969  WARN [Worker-4] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:39,970  WARN [Worker-4] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:40,027  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:40,027  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:40,038  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:40,038  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:57:40,050  WARN [Worker-7] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:57:40,051  WARN [Worker-7] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:20,194  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:20,194  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:20,205  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:20,205  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:22,144  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:22,144  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:23,209  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:23,209  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:23,221  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:23,221  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:58:23,236  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:58:23,237  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:59:51,848  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:59:51,848  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:59:51,862  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:59:51,862  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 00:59:57,424  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 00:59:57,424  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:00:02,651  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:00:02,651  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:00:02,666  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:00:02,666  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:00:02,682  WARN [Worker-1] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:00:02,682  WARN [Worker-1] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:38,547  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:38,547  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:38,560  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:38,560  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:44,300  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:44,300  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:44,377  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:44,378  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:44,390  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:44,390  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:02:44,406  WARN [Worker-0] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:02:44,406  WARN [Worker-0] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:12,949 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:12,951 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:12,951 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:12,951 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:45,645 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:45,645 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:45,645 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:49,674  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:49,674  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:49,686  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:49,686  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:50,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:50,505 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:50,505 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:50,506 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:06:56,330  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:56,330  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:56,421  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:56,422  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:56,436  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:56,436  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:06:56,451  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:06:56,451  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:02,041  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:02,041  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:02,051  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:02,051  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:04,045  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:04,046  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:04,701  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:04,702  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:04,716  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:04,716  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:07:04,733  WARN [Worker-10] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:07:04,733  WARN [Worker-10] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:08:17,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:08:17,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-11-04 01:09:01,933  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:01,933  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:09:01,944  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:01,944  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:09:07,568  WARN [Worker-6] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:07,569  WARN [Worker-6] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:09:07,644  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:07,644  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:09:07,655  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:07,655  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:09:07,667  WARN [Worker-8] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:09:07,668  WARN [Worker-8] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:08,910  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:08,910  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:08,921  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:08,921  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:14,494  WARN [Worker-9] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:14,494  WARN [Worker-9] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:18,861  WARN [Worker-11] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:18,861  WARN [Worker-11] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:18,879  WARN [Worker-11] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:18,879  WARN [Worker-11] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:18,891  WARN [Worker-11] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:18,891  WARN [Worker-11] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:22,263  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:22,263  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:22,273  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:22,273  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:24,199  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:24,199  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:25,640  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:25,640  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:25,648  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:25,649  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
+2015-11-04 01:13:25,660  WARN [Worker-3] - ScalaProject - Project scalatest_first has platform default sourceLevel.
+2015-11-04 01:13:25,660  WARN [Worker-3] - ScalaProject - Project scalatest_first runs on platform default installation.
